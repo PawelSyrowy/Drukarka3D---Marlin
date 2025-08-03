@@ -166,11 +166,11 @@
 #define EXP1_01_PIN                           17  // BEEPER / ENC
 #define EXP1_02_PIN                           30  // LCD_D4 / SERVO
 #define EXP1_03_PIN                           16  // ENC    / LCD_EN
-#define EXP1_04_PIN                           27  // SERVO  / LCD_RS
+#define EXP1_04_PIN                           29  // SERVO  / LCD_RS
 #define EXP1_05_PIN                           11  // EN1    / LCD_D4
 #define EXP1_06_PIN                           28  // LCD_EN / EN1
 #define EXP1_07_PIN                           10  // EN2
-#define EXP1_08_PIN                           29  // LCD_RS / BEEPER
+#define EXP1_08_PIN                           27  // LCD_RS / BEEPER
 
 /**
  * LCD / Controller
