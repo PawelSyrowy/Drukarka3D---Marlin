@@ -1198,7 +1198,7 @@
  * Override with M92
  *                                      X, Y, Z [, I [, J [, K...]]], E0 [, E1[, E2...]]
  */
-#define DEFAULT_AXIS_STEPS_PER_UNIT   { 80, 80, 400, 95 }
+#define DEFAULT_AXIS_STEPS_PER_UNIT   { 80, 80, 400, 422 }
 
 /**
  * Default Max Feed Rate (linear=mm/s, rotational=°/s)
@@ -1726,7 +1726,7 @@
 // @section geometry
 
 // The size of the printable area
-#define X_BED_SIZE 200
+#define X_BED_SIZE 216
 #define Y_BED_SIZE 257.5
 
 // Travel limits (linear=mm, rotational=°) after homing, corresponding to endstop positions.
