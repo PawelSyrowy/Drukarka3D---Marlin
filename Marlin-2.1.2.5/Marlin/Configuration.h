@@ -688,11 +688,7 @@
     #define DEFAULT_Ki_LIST {   1.08,   1.08 }
     #define DEFAULT_Kd_LIST { 114.00, 114.00 }
   #else
-    //for 200 temperture
-    #define DEFAULT_Kp  27.59
-    #define DEFAULT_Ki   2.90
-    #define DEFAULT_Kd 65.54
-    //for 215 temperture
+    // for 215 temperture
     #define DEFAULT_Kp  30.23
     #define DEFAULT_Ki   3.13
     #define DEFAULT_Kd 73.07
